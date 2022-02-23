@@ -1,0 +1,25 @@
+.infos {
+    margin-top: 75px;
+  }
+  .info {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia,
+      serif;
+    text-align: center;
+    font-weight: 300;
+    font-size: 100px;
+  }
+  .subname {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia,
+      serif;
+    padding-left: 503px;
+    font-size: 36px;
+    width: 1100px;
+    text-align: center;
+  }
+  .article {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia,
+      serif;
+    font-size: 20px;
+    text-align: left;
+  }
+  

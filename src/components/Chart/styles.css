@@ -1,0 +1,17 @@
+.charts {
+    margin-top: 80px;
+  }
+  .input-group.md-form.form-lg.form-2 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.55rem;
+    border-bottom-right-radius: 0.55rem;
+  }
+  .active-pink-4 input[type="text"]:focus:not([readonly]) {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+  }
+  .active-pink-3 input[type="text"] {
+    border: 1px solid #f48fb1;
+    box-shadow: 0 0 0 1px #f48fb1;
+  }
+  

@@ -1,0 +1,12 @@
+.click {
+    padding-top: 120px;
+    font-size: 30px;
+  }
+  #chartdiv {
+    display: inline-flex;
+    padding-top: 120px;
+  }
+  #mapchart {
+    display: inline-flex;
+  }
+  

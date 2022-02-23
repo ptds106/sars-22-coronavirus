@@ -1,0 +1,20 @@
+.clock {
+    padding-top: 100px;
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia,
+      serif;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .clock h1 {
+    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia,
+      serif;
+    border: 2px solid burlywood;
+    width: 550px;
+    margin: 10vh auto 0px auto;
+    border-radius: 15px;
+    padding: 10px 10px;
+    font-family: orbitron;
+    text-align: center;
+    color: aliceblue;
+  }
+  
